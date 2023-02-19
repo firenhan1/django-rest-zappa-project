@@ -94,7 +94,6 @@ MY_AWS_ACCESS_KEY_ID=
 MY_AWS_DEFAULT_REGION=
 ```
 
-```python
 
 ### 6. Run server and use it in your local
 ```bash
