@@ -75,15 +75,15 @@ To see "devices" table in the list of tables, you can run this command
 
 ** NOTE: You can check the table on AWS DynamoDB console.**
 
-![test](result/dynamoDB-home.png)
+![test](result/DynamoDB-home.png)
 
 - Select the "devices" table and click button "Explore table items"
 
-![test](result/dynamoDB-explore-table.png)
+![test](result/DynamoDB-explore-table.png)
 
 - You can see the table items (assume that we have item "devices/id1" in the table)
 
-![test](result/dynamoDB-created-device-1.png)
+![test](result/DynamoDB-created-device-1.png)
 
 
 ### 5. Rename .env.template to .env and update MY_AWS_SECRET_ACCESS_KEY, MY_AWS_ACCESS_KEY_ID and MY_AWS_DEFAULT_REGION in .env file
